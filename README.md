@@ -10,6 +10,7 @@ Solving leetcode problems
 | [1773-count-items-matching-a-rule](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1773-count-items-matching-a-rule) |
 | [1774-closest-dessert-cost](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1774-closest-dessert-cost) |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
+| [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 ## String
 |  |
 | ------- |
