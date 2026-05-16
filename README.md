@@ -76,6 +76,7 @@ Solving leetcode problems
 | ------- |
 | [1782-count-pairs-of-nodes](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1782-count-pairs-of-nodes) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
+| [1791-find-center-of-star-graph](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1791-find-center-of-star-graph) |
 ## Sorting
 |  |
 | ------- |
