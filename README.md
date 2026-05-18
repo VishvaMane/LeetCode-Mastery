@@ -17,6 +17,7 @@ Solving leetcode problems
 | [1792-maximum-average-pass-ratio](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1792-maximum-average-pass-ratio) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
+| [1799-maximize-score-after-n-operations](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1799-maximize-score-after-n-operations) |
 ## String
 |  |
 | ------- |
@@ -38,10 +39,12 @@ Solving leetcode problems
 | [1774-closest-dessert-cost](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1774-closest-dessert-cost) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1787-make-the-xor-of-all-segments-equal-to-zero](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1787-make-the-xor-of-all-segments-equal-to-zero) |
+| [1799-maximize-score-after-n-operations](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1799-maximize-score-after-n-operations) |
 ## Backtracking
 |  |
 | ------- |
 | [1774-closest-dessert-cost](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1774-closest-dessert-cost) |
+| [1799-maximize-score-after-n-operations](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1799-maximize-score-after-n-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,6 +74,7 @@ Solving leetcode problems
 |  |
 | ------- |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
+| [1799-maximize-score-after-n-operations](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1799-maximize-score-after-n-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -109,6 +113,7 @@ Solving leetcode problems
 |  |
 | ------- |
 | [1787-make-the-xor-of-all-segments-equal-to-zero](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1787-make-the-xor-of-all-segments-equal-to-zero) |
+| [1799-maximize-score-after-n-operations](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1799-maximize-score-after-n-operations) |
 ## Stack
 |  |
 | ------- |
@@ -129,4 +134,12 @@ Solving leetcode problems
 |  |
 | ------- |
 | [1797-design-authentication-manager](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1797-design-authentication-manager) |
+## Number Theory
+|  |
+| ------- |
+| [1799-maximize-score-after-n-operations](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1799-maximize-score-after-n-operations) |
+## Bitmask
+|  |
+| ------- |
+| [1799-maximize-score-after-n-operations](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1799-maximize-score-after-n-operations) |
 <!---LeetCode Topics End-->
