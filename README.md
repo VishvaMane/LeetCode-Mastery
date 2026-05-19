@@ -18,6 +18,7 @@ Solving leetcode problems
 | [1793-maximum-score-of-a-good-subarray](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1799-maximize-score-after-n-operations](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1799-maximize-score-after-n-operations) |
+| [1800-maximum-ascending-subarray-sum](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1800-maximum-ascending-subarray-sum) |
 ## String
 |  |
 | ------- |
