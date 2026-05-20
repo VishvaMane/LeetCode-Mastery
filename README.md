@@ -21,6 +21,7 @@ Solving leetcode problems
 | [1800-maximum-ascending-subarray-sum](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1801-number-of-orders-in-the-backlog](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1801-number-of-orders-in-the-backlog) |
 | [1803-count-pairs-with-xor-in-a-range](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1803-count-pairs-with-xor-in-a-range) |
+| [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 ## String
 |  |
 | ------- |
@@ -80,6 +81,7 @@ Solving leetcode problems
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1799-maximize-score-after-n-operations](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1799-maximize-score-after-n-operations) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
+| [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -154,6 +156,7 @@ Solving leetcode problems
 |  |
 | ------- |
 | [1801-number-of-orders-in-the-backlog](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1801-number-of-orders-in-the-backlog) |
+| [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 ## Trie
 |  |
 | ------- |
