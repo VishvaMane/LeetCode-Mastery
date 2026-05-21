@@ -34,6 +34,7 @@ Solving leetcode problems
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1796-second-largest-digit-in-a-string](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1796-second-largest-digit-in-a-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1812-determine-color-of-a-chessboard-square) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -86,6 +87,7 @@ Solving leetcode problems
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1808-maximize-number-of-nice-divisors](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1808-maximize-number-of-nice-divisors) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1812-determine-color-of-a-chessboard-square) |
 ## Two Pointers
 |  |
 | ------- |
