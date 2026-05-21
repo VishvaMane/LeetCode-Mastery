@@ -22,6 +22,7 @@ Solving leetcode problems
 | [1801-number-of-orders-in-the-backlog](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1801-number-of-orders-in-the-backlog) |
 | [1803-count-pairs-with-xor-in-a-range](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1803-count-pairs-with-xor-in-a-range) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## String
 |  |
 | ------- |
@@ -32,6 +33,7 @@ Solving leetcode problems
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1796-second-largest-digit-in-a-string](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1796-second-largest-digit-in-a-string) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -59,6 +61,7 @@ Solving leetcode problems
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1796-second-largest-digit-in-a-string](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1796-second-largest-digit-in-a-string) |
 | [1797-design-authentication-manager](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1797-design-authentication-manager) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Greedy
 |  |
 | ------- |
