@@ -25,6 +25,7 @@ Solving leetcode problems
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1813-sentence-similarity-iii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1813-sentence-similarity-iii) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1815-maximum-number-of-groups-getting-fresh-donuts](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1815-maximum-number-of-groups-getting-fresh-donuts) |
 ## String
 |  |
 | ------- |
@@ -50,6 +51,7 @@ Solving leetcode problems
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1787-make-the-xor-of-all-segments-equal-to-zero](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1787-make-the-xor-of-all-segments-equal-to-zero) |
 | [1799-maximize-score-after-n-operations](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1799-maximize-score-after-n-operations) |
+| [1815-maximum-number-of-groups-getting-fresh-donuts](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1815-maximum-number-of-groups-getting-fresh-donuts) |
 ## Backtracking
 |  |
 | ------- |
@@ -137,6 +139,7 @@ Solving leetcode problems
 | [1787-make-the-xor-of-all-segments-equal-to-zero](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1787-make-the-xor-of-all-segments-equal-to-zero) |
 | [1799-maximize-score-after-n-operations](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1799-maximize-score-after-n-operations) |
 | [1803-count-pairs-with-xor-in-a-range](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1803-count-pairs-with-xor-in-a-range) |
+| [1815-maximum-number-of-groups-getting-fresh-donuts](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1815-maximum-number-of-groups-getting-fresh-donuts) |
 ## Stack
 |  |
 | ------- |
@@ -166,6 +169,7 @@ Solving leetcode problems
 |  |
 | ------- |
 | [1799-maximize-score-after-n-operations](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1799-maximize-score-after-n-operations) |
+| [1815-maximum-number-of-groups-getting-fresh-donuts](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1815-maximum-number-of-groups-getting-fresh-donuts) |
 ## Simulation
 |  |
 | ------- |
@@ -179,4 +183,8 @@ Solving leetcode problems
 |  |
 | ------- |
 | [1808-maximize-number-of-nice-divisors](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1808-maximize-number-of-nice-divisors) |
+## Memoization
+|  |
+| ------- |
+| [1815-maximum-number-of-groups-getting-fresh-donuts](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1815-maximum-number-of-groups-getting-fresh-donuts) |
 <!---LeetCode Topics End-->
