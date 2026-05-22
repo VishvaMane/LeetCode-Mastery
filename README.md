@@ -23,6 +23,7 @@ Solving leetcode problems
 | [1803-count-pairs-with-xor-in-a-range](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1803-count-pairs-with-xor-in-a-range) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1813-sentence-similarity-iii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1813-sentence-similarity-iii) |
 ## String
 |  |
 | ------- |
@@ -35,6 +36,7 @@ Solving leetcode problems
 | [1796-second-largest-digit-in-a-string](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1796-second-largest-digit-in-a-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [1813-sentence-similarity-iii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1813-sentence-similarity-iii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -93,6 +95,7 @@ Solving leetcode problems
 | ------- |
 | [1782-count-pairs-of-nodes](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1782-count-pairs-of-nodes) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1793-maximum-score-of-a-good-subarray) |
+| [1813-sentence-similarity-iii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1813-sentence-similarity-iii) |
 ## Binary Search
 |  |
 | ------- |
