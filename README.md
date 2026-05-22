@@ -24,6 +24,7 @@ Solving leetcode problems
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1813-sentence-similarity-iii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1813-sentence-similarity-iii) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1814-count-nice-pairs-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -65,6 +66,7 @@ Solving leetcode problems
 | [1796-second-largest-digit-in-a-string](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1796-second-largest-digit-in-a-string) |
 | [1797-design-authentication-manager](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1797-design-authentication-manager) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1814-count-nice-pairs-in-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -81,6 +83,7 @@ Solving leetcode problems
 | [1782-count-pairs-of-nodes](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1782-count-pairs-of-nodes) |
 | [1787-make-the-xor-of-all-segments-equal-to-zero](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1787-make-the-xor-of-all-segments-equal-to-zero) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1814-count-nice-pairs-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -90,6 +93,7 @@ Solving leetcode problems
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1808-maximize-number-of-nice-divisors](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1808-maximize-number-of-nice-divisors) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1814-count-nice-pairs-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
