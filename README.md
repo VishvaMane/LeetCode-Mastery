@@ -26,6 +26,7 @@ Solving leetcode problems
 | [1813-sentence-similarity-iii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1813-sentence-similarity-iii) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1815-maximum-number-of-groups-getting-fresh-donuts](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1815-maximum-number-of-groups-getting-fresh-donuts) |
+| [1816-truncate-sentence](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1816-truncate-sentence) |
 ## String
 |  |
 | ------- |
@@ -39,6 +40,7 @@ Solving leetcode problems
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1813-sentence-similarity-iii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1813-sentence-similarity-iii) |
+| [1816-truncate-sentence](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1816-truncate-sentence) |
 ## Prefix Sum
 |  |
 | ------- |
