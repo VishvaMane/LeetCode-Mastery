@@ -27,6 +27,7 @@ Solving leetcode problems
 | [1814-count-nice-pairs-in-an-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1815-maximum-number-of-groups-getting-fresh-donuts](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1815-maximum-number-of-groups-getting-fresh-donuts) |
 | [1816-truncate-sentence](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1816-truncate-sentence) |
+| [1818-minimum-absolute-sum-difference](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1818-minimum-absolute-sum-difference) |
 ## String
 |  |
 | ------- |
@@ -110,6 +111,7 @@ Solving leetcode problems
 | [1782-count-pairs-of-nodes](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1782-count-pairs-of-nodes) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
+| [1818-minimum-absolute-sum-difference](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1818-minimum-absolute-sum-difference) |
 ## Graph Theory
 |  |
 | ------- |
@@ -121,6 +123,7 @@ Solving leetcode problems
 | ------- |
 | [1782-count-pairs-of-nodes](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1782-count-pairs-of-nodes) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
+| [1818-minimum-absolute-sum-difference](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1818-minimum-absolute-sum-difference) |
 ## Topological Sort
 |  |
 | ------- |
@@ -189,4 +192,8 @@ Solving leetcode problems
 |  |
 | ------- |
 | [1815-maximum-number-of-groups-getting-fresh-donuts](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1815-maximum-number-of-groups-getting-fresh-donuts) |
+## Ordered Set
+|  |
+| ------- |
+| [1818-minimum-absolute-sum-difference](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1818-minimum-absolute-sum-difference) |
 <!---LeetCode Topics End-->
