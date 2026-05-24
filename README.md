@@ -29,6 +29,7 @@ Solving leetcode problems
 | [1816-truncate-sentence](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1816-truncate-sentence) |
 | [1818-minimum-absolute-sum-difference](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1818-minimum-absolute-sum-difference) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## String
 |  |
 | ------- |
@@ -101,6 +102,7 @@ Solving leetcode problems
 | [1812-determine-color-of-a-chessboard-square](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -182,6 +184,7 @@ Solving leetcode problems
 | ------- |
 | [1801-number-of-orders-in-the-backlog](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1801-number-of-orders-in-the-backlog) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Trie
 |  |
 | ------- |
@@ -190,6 +193,7 @@ Solving leetcode problems
 |  |
 | ------- |
 | [1808-maximize-number-of-nice-divisors](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1808-maximize-number-of-nice-divisors) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Memoization
 |  |
 | ------- |
@@ -198,4 +202,8 @@ Solving leetcode problems
 |  |
 | ------- |
 | [1818-minimum-absolute-sum-difference](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1818-minimum-absolute-sum-difference) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
