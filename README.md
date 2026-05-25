@@ -31,6 +31,7 @@ Solving leetcode problems
 | [1822-sign-of-the-product-of-an-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1824-minimum-sideway-jumps](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1824-minimum-sideway-jumps) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 ## String
 |  |
 | ------- |
@@ -85,6 +86,7 @@ Solving leetcode problems
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1824-minimum-sideway-jumps](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1824-minimum-sideway-jumps) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 ## Counting
 |  |
 | ------- |
