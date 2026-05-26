@@ -33,6 +33,7 @@ Solving leetcode problems
 | [1824-minimum-sideway-jumps](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1824-minimum-sideway-jumps) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
+| [1833-maximum-ice-cream-bars](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1833-maximum-ice-cream-bars) |
 ## String
 |  |
 | ------- |
@@ -92,6 +93,7 @@ Solving leetcode problems
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1824-minimum-sideway-jumps](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1824-minimum-sideway-jumps) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1833-maximum-ice-cream-bars](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting
 |  |
 | ------- |
@@ -141,6 +143,7 @@ Solving leetcode problems
 | [1782-count-pairs-of-nodes](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1782-count-pairs-of-nodes) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1818-minimum-absolute-sum-difference](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1818-minimum-absolute-sum-difference) |
+| [1833-maximum-ice-cream-bars](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1833-maximum-ice-cream-bars) |
 ## Topological Sort
 |  |
 | ------- |
@@ -235,4 +238,8 @@ Solving leetcode problems
 |  |
 | ------- |
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
