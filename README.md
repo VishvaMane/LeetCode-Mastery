@@ -48,6 +48,7 @@ Solving leetcode problems
 | [1813-sentence-similarity-iii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1813-sentence-similarity-iii) |
 | [1816-truncate-sentence](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1816-truncate-sentence) |
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -80,6 +81,7 @@ Solving leetcode problems
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Greedy
 |  |
 | ------- |
