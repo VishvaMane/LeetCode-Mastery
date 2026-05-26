@@ -47,6 +47,7 @@ Solving leetcode problems
 | [1812-determine-color-of-a-chessboard-square](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1813-sentence-similarity-iii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1813-sentence-similarity-iii) |
 | [1816-truncate-sentence](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1816-truncate-sentence) |
+| [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -78,6 +79,7 @@ Solving leetcode problems
 | [1797-design-authentication-manager](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1797-design-authentication-manager) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
 ## Greedy
 |  |
 | ------- |
@@ -97,6 +99,7 @@ Solving leetcode problems
 | [1787-make-the-xor-of-all-segments-equal-to-zero](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1787-make-the-xor-of-all-segments-equal-to-zero) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
 ## Math
 |  |
 | ------- |
@@ -110,6 +113,7 @@ Solving leetcode problems
 | [1822-sign-of-the-product-of-an-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
+| [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
 ## Two Pointers
 |  |
 | ------- |
@@ -225,4 +229,8 @@ Solving leetcode problems
 |  |
 | ------- |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
+## Combinatorics
+|  |
+| ------- |
+| [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
 <!---LeetCode Topics End-->
