@@ -121,6 +121,7 @@ Solving leetcode problems
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
+| [1837-sum-of-digits-in-base-k](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1837-sum-of-digits-in-base-k) |
 ## Two Pointers
 |  |
 | ------- |
