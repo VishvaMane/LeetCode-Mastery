@@ -52,6 +52,7 @@ Solving leetcode problems
 | [1816-truncate-sentence](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1816-truncate-sentence) |
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1839-longest-substring-of-all-vowels-in-order](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -249,4 +250,8 @@ Solving leetcode problems
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1833-maximum-ice-cream-bars) |
+## Sliding Window
+|  |
+| ------- |
+| [1839-longest-substring-of-all-vowels-in-order](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 <!---LeetCode Topics End-->
