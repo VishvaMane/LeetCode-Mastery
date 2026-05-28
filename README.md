@@ -36,6 +36,7 @@ Solving leetcode problems
 | [1833-maximum-ice-cream-bars](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-single-threaded-cpu](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1834-single-threaded-cpu) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
+| [1840-maximum-building-height](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1840-maximum-building-height) |
 ## String
 |  |
 | ------- |
@@ -123,6 +124,7 @@ Solving leetcode problems
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1837-sum-of-digits-in-base-k](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1837-sum-of-digits-in-base-k) |
+| [1840-maximum-building-height](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1840-maximum-building-height) |
 ## Two Pointers
 |  |
 | ------- |
@@ -150,6 +152,7 @@ Solving leetcode problems
 | [1818-minimum-absolute-sum-difference](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1818-minimum-absolute-sum-difference) |
 | [1833-maximum-ice-cream-bars](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-single-threaded-cpu](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1834-single-threaded-cpu) |
+| [1840-maximum-building-height](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1840-maximum-building-height) |
 ## Topological Sort
 |  |
 | ------- |
