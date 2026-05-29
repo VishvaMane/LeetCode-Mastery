@@ -165,6 +165,7 @@ Solving leetcode problems
 | [1801-number-of-orders-in-the-backlog](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1801-number-of-orders-in-the-backlog) |
 | [1825-finding-mk-average](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1825-finding-mk-average) |
 | [1834-single-threaded-cpu](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1834-single-threaded-cpu) |
+| [1845-seat-reservation-manager](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1845-seat-reservation-manager) |
 ## Shortest Path
 |  |
 | ------- |
@@ -194,6 +195,7 @@ Solving leetcode problems
 | ------- |
 | [1797-design-authentication-manager](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1797-design-authentication-manager) |
 | [1825-finding-mk-average](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1825-finding-mk-average) |
+| [1845-seat-reservation-manager](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1845-seat-reservation-manager) |
 ## Doubly-Linked List
 |  |
 | ------- |
