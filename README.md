@@ -38,6 +38,7 @@ Solving leetcode problems
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1840-maximum-building-height](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1847-closest-room](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1847-closest-room) |
 ## String
 |  |
 | ------- |
@@ -140,6 +141,7 @@ Solving leetcode problems
 | [1793-maximum-score-of-a-good-subarray](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1818-minimum-absolute-sum-difference](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1818-minimum-absolute-sum-difference) |
+| [1847-closest-room](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1847-closest-room) |
 ## Graph Theory
 |  |
 | ------- |
@@ -156,6 +158,7 @@ Solving leetcode problems
 | [1834-single-threaded-cpu](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1834-single-threaded-cpu) |
 | [1840-maximum-building-height](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1847-closest-room](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1847-closest-room) |
 ## Topological Sort
 |  |
 | ------- |
@@ -237,6 +240,7 @@ Solving leetcode problems
 | ------- |
 | [1818-minimum-absolute-sum-difference](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1818-minimum-absolute-sum-difference) |
 | [1825-finding-mk-average](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1825-finding-mk-average) |
+| [1847-closest-room](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1847-closest-room) |
 ## Queue
 |  |
 | ------- |
