@@ -39,6 +39,7 @@ Solving leetcode problems
 | [1840-maximum-building-height](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1847-closest-room](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1847-closest-room) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1848-minimum-distance-to-the-target-element) |
 ## String
 |  |
 | ------- |
