@@ -58,6 +58,7 @@ Solving leetcode problems
 | [1832-check-if-the-sentence-is-pangram](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
+| [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -104,6 +105,7 @@ Solving leetcode problems
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1833-maximum-ice-cream-bars](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 ## Counting
 |  |
 | ------- |
@@ -137,6 +139,7 @@ Solving leetcode problems
 | [1782-count-pairs-of-nodes](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1782-count-pairs-of-nodes) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1813-sentence-similarity-iii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1813-sentence-similarity-iii) |
+| [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 ## Binary Search
 |  |
 | ------- |
