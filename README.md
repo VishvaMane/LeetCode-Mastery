@@ -40,6 +40,7 @@ Solving leetcode problems
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1847-closest-room](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1847-closest-room) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1851-minimum-interval-to-include-each-query) |
 ## String
 |  |
 | ------- |
@@ -148,6 +149,7 @@ Solving leetcode problems
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1818-minimum-absolute-sum-difference](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1818-minimum-absolute-sum-difference) |
 | [1847-closest-room](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1847-closest-room) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Graph Theory
 |  |
 | ------- |
@@ -165,6 +167,7 @@ Solving leetcode problems
 | [1840-maximum-building-height](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1847-closest-room](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1847-closest-room) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Topological Sort
 |  |
 | ------- |
@@ -178,6 +181,7 @@ Solving leetcode problems
 | [1825-finding-mk-average](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1825-finding-mk-average) |
 | [1834-single-threaded-cpu](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1834-single-threaded-cpu) |
 | [1845-seat-reservation-manager](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1845-seat-reservation-manager) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Shortest Path
 |  |
 | ------- |
@@ -276,4 +280,8 @@ Solving leetcode problems
 |  |
 | ------- |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
+## Sweep Line
+|  |
+| ------- |
+| [1851-minimum-interval-to-include-each-query](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1851-minimum-interval-to-include-each-query) |
 <!---LeetCode Topics End-->
