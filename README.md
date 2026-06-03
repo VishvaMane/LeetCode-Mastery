@@ -41,6 +41,7 @@ Solving leetcode problems
 | [1847-closest-room](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1847-closest-room) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1851-minimum-interval-to-include-each-query) |
+| [1854-maximum-population-year](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1854-maximum-population-year) |
 ## String
 |  |
 | ------- |
@@ -64,6 +65,7 @@ Solving leetcode problems
 |  |
 | ------- |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1854-maximum-population-year](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1854-maximum-population-year) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -117,6 +119,7 @@ Solving leetcode problems
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
+| [1854-maximum-population-year](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1854-maximum-population-year) |
 ## Math
 |  |
 | ------- |
