@@ -64,6 +64,7 @@ Solving leetcode problems
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [1859-sorting-the-sentence](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1859-sorting-the-sentence) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -181,6 +182,7 @@ Solving leetcode problems
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1847-closest-room](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1847-closest-room) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1851-minimum-interval-to-include-each-query) |
+| [1859-sorting-the-sentence](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1859-sorting-the-sentence) |
 ## Topological Sort
 |  |
 | ------- |
