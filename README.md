@@ -44,6 +44,7 @@ Solving leetcode problems
 | [1854-maximum-population-year](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1854-maximum-population-year) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1856-maximum-subarray-min-product](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1856-maximum-subarray-min-product) |
+| [1861-rotating-the-box](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1861-rotating-the-box) |
 ## String
 |  |
 | ------- |
@@ -154,6 +155,7 @@ Solving leetcode problems
 | [1813-sentence-similarity-iii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1813-sentence-similarity-iii) |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1861-rotating-the-box) |
 ## Binary Search
 |  |
 | ------- |
@@ -305,4 +307,8 @@ Solving leetcode problems
 |  |
 | ------- |
 | [1851-minimum-interval-to-include-each-query](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1851-minimum-interval-to-include-each-query) |
+## Matrix
+|  |
+| ------- |
+| [1861-rotating-the-box](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1861-rotating-the-box) |
 <!---LeetCode Topics End-->
