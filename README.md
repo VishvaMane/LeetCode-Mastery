@@ -45,6 +45,7 @@ Solving leetcode problems
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1856-maximum-subarray-min-product](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1856-maximum-subarray-min-product) |
 | [1861-rotating-the-box](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1861-rotating-the-box) |
+| [1862-sum-of-floored-pairs](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1862-sum-of-floored-pairs) |
 ## String
 |  |
 | ------- |
@@ -72,6 +73,7 @@ Solving leetcode problems
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1854-maximum-population-year](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1854-maximum-population-year) |
 | [1856-maximum-subarray-min-product](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1856-maximum-subarray-min-product) |
+| [1862-sum-of-floored-pairs](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1862-sum-of-floored-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -129,6 +131,7 @@ Solving leetcode problems
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
 | [1854-maximum-population-year](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1854-maximum-population-year) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [1862-sum-of-floored-pairs](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1862-sum-of-floored-pairs) |
 ## Math
 |  |
 | ------- |
@@ -147,6 +150,7 @@ Solving leetcode problems
 | [1837-sum-of-digits-in-base-k](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1837-sum-of-digits-in-base-k) |
 | [1840-maximum-building-height](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1840-maximum-building-height) |
 | [1860-incremental-memory-leak](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1860-incremental-memory-leak) |
+| [1862-sum-of-floored-pairs](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1862-sum-of-floored-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -166,6 +170,7 @@ Solving leetcode problems
 | [1847-closest-room](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1847-closest-room) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1862-sum-of-floored-pairs](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1862-sum-of-floored-pairs) |
 ## Graph Theory
 |  |
 | ------- |
@@ -303,6 +308,7 @@ Solving leetcode problems
 |  |
 | ------- |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
+| [1862-sum-of-floored-pairs](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1862-sum-of-floored-pairs) |
 ## Sweep Line
 |  |
 | ------- |
