@@ -67,6 +67,7 @@ Solving leetcode problems
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1859-sorting-the-sentence](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1859-sorting-the-sentence) |
+| [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -119,6 +120,7 @@ Solving leetcode problems
 | [1833-maximum-ice-cream-bars](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
+| [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 ## Counting
 |  |
 | ------- |
