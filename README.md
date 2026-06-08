@@ -69,6 +69,7 @@ Solving leetcode problems
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1859-sorting-the-sentence](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1859-sorting-the-sentence) |
 | [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
+| [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 ## Prefix Sum
 |  |
 | ------- |
