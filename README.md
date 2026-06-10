@@ -48,6 +48,7 @@ Solving leetcode problems
 | [1862-sum-of-floored-pairs](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1862-sum-of-floored-pairs) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [1872-stone-game-viii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1872-stone-game-viii) |
 ## String
 |  |
 | ------- |
@@ -80,6 +81,7 @@ Solving leetcode problems
 | [1856-maximum-subarray-min-product](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1856-maximum-subarray-min-product) |
 | [1862-sum-of-floored-pairs](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1862-sum-of-floored-pairs) |
 | [1871-jump-game-vii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1872-stone-game-viii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -93,6 +95,7 @@ Solving leetcode problems
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [1871-jump-game-vii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1872-stone-game-viii) |
 ## Backtracking
 |  |
 | ------- |
@@ -162,6 +165,7 @@ Solving leetcode problems
 | [1860-incremental-memory-leak](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1860-incremental-memory-leak) |
 | [1862-sum-of-floored-pairs](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1862-sum-of-floored-pairs) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
+| [1872-stone-game-viii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1872-stone-game-viii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -332,4 +336,8 @@ Solving leetcode problems
 |  |
 | ------- |
 | [1861-rotating-the-box](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1861-rotating-the-box) |
+## Game Theory
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
