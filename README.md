@@ -73,6 +73,7 @@ Solving leetcode problems
 | [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1871-jump-game-vii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1871-jump-game-vii) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -118,6 +119,7 @@ Solving leetcode problems
 | [1832-check-if-the-sentence-is-pangram](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1865-finding-pairs-with-a-certain-sum) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Greedy
 |  |
 | ------- |
@@ -145,6 +147,7 @@ Solving leetcode problems
 | [1854-maximum-population-year](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1854-maximum-population-year) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1862-sum-of-floored-pairs](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1862-sum-of-floored-pairs) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Math
 |  |
 | ------- |
@@ -323,6 +326,7 @@ Solving leetcode problems
 | ------- |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1871-jump-game-vii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1871-jump-game-vii) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Enumeration
 |  |
 | ------- |
