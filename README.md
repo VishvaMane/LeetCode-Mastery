@@ -49,6 +49,7 @@ Solving leetcode problems
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1872-stone-game-viii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1872-stone-game-viii) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## String
 |  |
 | ------- |
@@ -134,6 +135,7 @@ Solving leetcode problems
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Counting
 |  |
 | ------- |
@@ -178,6 +180,7 @@ Solving leetcode problems
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1861-rotating-the-box) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -210,6 +213,7 @@ Solving leetcode problems
 | [1847-closest-room](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1847-closest-room) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1859-sorting-the-sentence](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1859-sorting-the-sentence) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Topological Sort
 |  |
 | ------- |
