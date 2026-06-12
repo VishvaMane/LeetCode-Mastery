@@ -51,6 +51,7 @@ Solving leetcode problems
 | [1872-stone-game-viii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1872-stone-game-viii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1879-minimum-xor-sum-of-two-arrays](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -100,6 +101,7 @@ Solving leetcode problems
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [1871-jump-game-vii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1872-stone-game-viii) |
+| [1879-minimum-xor-sum-of-two-arrays](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 ## Backtracking
 |  |
 | ------- |
@@ -246,6 +248,7 @@ Solving leetcode problems
 | [1803-count-pairs-with-xor-in-a-range](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1803-count-pairs-with-xor-in-a-range) |
 | [1815-maximum-number-of-groups-getting-fresh-donuts](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1815-maximum-number-of-groups-getting-fresh-donuts) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
+| [1879-minimum-xor-sum-of-two-arrays](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 ## Stack
 |  |
 | ------- |
@@ -281,6 +284,7 @@ Solving leetcode problems
 | ------- |
 | [1799-maximize-score-after-n-operations](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1799-maximize-score-after-n-operations) |
 | [1815-maximum-number-of-groups-getting-fresh-donuts](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1815-maximum-number-of-groups-getting-fresh-donuts) |
+| [1879-minimum-xor-sum-of-two-arrays](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 ## Simulation
 |  |
 | ------- |
