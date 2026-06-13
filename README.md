@@ -77,6 +77,7 @@ Solving leetcode problems
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1871-jump-game-vii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1871-jump-game-vii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1880-check-if-word-equals-summation-of-two-words](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 ## Prefix Sum
 |  |
 | ------- |
