@@ -107,6 +107,7 @@ Solving leetcode problems
 | [1872-stone-game-viii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1872-stone-game-viii) |
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [1883-minimum-skips-to-arrive-at-meeting-on-time](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1883-minimum-skips-to-arrive-at-meeting-on-time) |
+| [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 ## Backtracking
 |  |
 | ------- |
@@ -182,6 +183,7 @@ Solving leetcode problems
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [1872-stone-game-viii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 ## Two Pointers
 |  |
 | ------- |
