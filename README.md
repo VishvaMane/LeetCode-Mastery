@@ -54,6 +54,7 @@ Solving leetcode problems
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [1882-process-tasks-using-servers](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1882-process-tasks-using-servers) |
 | [1883-minimum-skips-to-arrive-at-meeting-on-time](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1883-minimum-skips-to-arrive-at-meeting-on-time) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## String
 |  |
 | ------- |
@@ -363,6 +364,7 @@ Solving leetcode problems
 | ------- |
 | [1861-rotating-the-box](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1861-rotating-the-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Game Theory
 |  |
 | ------- |
