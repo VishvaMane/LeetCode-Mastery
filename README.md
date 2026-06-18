@@ -166,6 +166,7 @@ Solving leetcode problems
 ## Math
 |  |
 | ------- |
+| [1344-angle-between-hands-of-a-clock](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1799-maximize-score-after-n-operations](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1799-maximize-score-after-n-operations) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
