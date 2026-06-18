@@ -55,6 +55,7 @@ Solving leetcode problems
 | [1882-process-tasks-using-servers](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1882-process-tasks-using-servers) |
 | [1883-minimum-skips-to-arrive-at-meeting-on-time](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1883-minimum-skips-to-arrive-at-meeting-on-time) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 ## String
 |  |
 | ------- |
@@ -229,6 +230,7 @@ Solving leetcode problems
 | [1859-sorting-the-sentence](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1859-sorting-the-sentence) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 ## Topological Sort
 |  |
 | ------- |
