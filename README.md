@@ -83,6 +83,7 @@ Solving leetcode problems
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [1881-maximum-value-after-insertion](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1881-maximum-value-after-insertion) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -110,6 +111,7 @@ Solving leetcode problems
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [1883-minimum-skips-to-arrive-at-meeting-on-time](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1883-minimum-skips-to-arrive-at-meeting-on-time) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Backtracking
 |  |
 | ------- |
@@ -353,6 +355,7 @@ Solving leetcode problems
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1871-jump-game-vii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1871-jump-game-vii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Enumeration
 |  |
 | ------- |
