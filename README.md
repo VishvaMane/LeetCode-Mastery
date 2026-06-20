@@ -57,6 +57,7 @@ Solving leetcode problems
 | [1883-minimum-skips-to-arrive-at-meeting-on-time](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1883-minimum-skips-to-arrive-at-meeting-on-time) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
+| [1889-minimum-space-wasted-from-packaging](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1889-minimum-space-wasted-from-packaging) |
 ## String
 |  |
 | ------- |
@@ -96,6 +97,7 @@ Solving leetcode problems
 | [1871-jump-game-vii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1889-minimum-space-wasted-from-packaging](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1889-minimum-space-wasted-from-packaging) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -213,6 +215,7 @@ Solving leetcode problems
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1862-sum-of-floored-pairs](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1862-sum-of-floored-pairs) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [1889-minimum-space-wasted-from-packaging](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1889-minimum-space-wasted-from-packaging) |
 ## Graph Theory
 |  |
 | ------- |
@@ -236,6 +239,7 @@ Solving leetcode problems
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
+| [1889-minimum-space-wasted-from-packaging](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1889-minimum-space-wasted-from-packaging) |
 ## Topological Sort
 |  |
 | ------- |
