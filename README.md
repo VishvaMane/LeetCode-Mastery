@@ -86,6 +86,7 @@ Solving leetcode problems
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [1881-maximum-value-after-insertion](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1881-maximum-value-after-insertion) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [3614-process-string-with-special-operations-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3614-process-string-with-special-operations-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -313,6 +314,7 @@ Solving leetcode problems
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1860-incremental-memory-leak](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1860-incremental-memory-leak) |
+| [3614-process-string-with-special-operations-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3614-process-string-with-special-operations-ii) |
 ## Trie
 |  |
 | ------- |
