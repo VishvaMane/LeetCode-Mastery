@@ -88,6 +88,7 @@ Solving leetcode problems
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [1881-maximum-value-after-insertion](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1881-maximum-value-after-insertion) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1896-minimum-cost-to-change-the-final-value-of-expression](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1896-minimum-cost-to-change-the-final-value-of-expression) |
 | [3614-process-string-with-special-operations-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3614-process-string-with-special-operations-ii) |
 ## Prefix Sum
 |  |
@@ -120,6 +121,7 @@ Solving leetcode problems
 | [1883-minimum-skips-to-arrive-at-meeting-on-time](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1883-minimum-skips-to-arrive-at-meeting-on-time) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1896-minimum-cost-to-change-the-final-value-of-expression](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1896-minimum-cost-to-change-the-final-value-of-expression) |
 ## Backtracking
 |  |
 | ------- |
@@ -199,6 +201,7 @@ Solving leetcode problems
 | [1872-stone-game-viii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
+| [1896-minimum-cost-to-change-the-final-value-of-expression](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1896-minimum-cost-to-change-the-final-value-of-expression) |
 ## Two Pointers
 |  |
 | ------- |
@@ -281,6 +284,7 @@ Solving leetcode problems
 | ------- |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1856-maximum-subarray-min-product](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1856-maximum-subarray-min-product) |
+| [1896-minimum-cost-to-change-the-final-value-of-expression](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1896-minimum-cost-to-change-the-final-value-of-expression) |
 ## Monotonic Stack
 |  |
 | ------- |
