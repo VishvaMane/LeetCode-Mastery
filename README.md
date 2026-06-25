@@ -59,6 +59,7 @@ Solving leetcode problems
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1889-minimum-space-wasted-from-packaging](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1889-minimum-space-wasted-from-packaging) |
 | [1895-largest-magic-square](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1895-largest-magic-square) |
+| [1898-maximum-number-of-removable-characters](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1898-maximum-number-of-removable-characters) |
 ## String
 |  |
 | ------- |
@@ -90,6 +91,7 @@ Solving leetcode problems
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1896-minimum-cost-to-change-the-final-value-of-expression](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1896-minimum-cost-to-change-the-final-value-of-expression) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
+| [1898-maximum-number-of-removable-characters](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1898-maximum-number-of-removable-characters) |
 | [3614-process-string-with-special-operations-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3614-process-string-with-special-operations-ii) |
 ## Prefix Sum
 |  |
@@ -217,6 +219,7 @@ Solving leetcode problems
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1898-maximum-number-of-removable-characters](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1898-maximum-number-of-removable-characters) |
 ## Binary Search
 |  |
 | ------- |
@@ -230,6 +233,7 @@ Solving leetcode problems
 | [1862-sum-of-floored-pairs](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1862-sum-of-floored-pairs) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1889-minimum-space-wasted-from-packaging](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1889-minimum-space-wasted-from-packaging) |
+| [1898-maximum-number-of-removable-characters](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1898-maximum-number-of-removable-characters) |
 ## Graph Theory
 |  |
 | ------- |
