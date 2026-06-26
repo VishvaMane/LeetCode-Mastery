@@ -62,6 +62,7 @@ Solving leetcode problems
 | [1898-maximum-number-of-removable-characters](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1898-maximum-number-of-removable-characters) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
 |  |
 | ------- |
@@ -109,6 +110,7 @@ Solving leetcode problems
 | [1889-minimum-space-wasted-from-packaging](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1889-minimum-space-wasted-from-packaging) |
 | [1895-largest-magic-square](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1895-largest-magic-square) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -155,6 +157,7 @@ Solving leetcode problems
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -416,12 +419,15 @@ Solving leetcode problems
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3739-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
