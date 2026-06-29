@@ -62,6 +62,7 @@ Solving leetcode problems
 | [1898-maximum-number-of-removable-characters](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1898-maximum-number-of-removable-characters) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1901-find-a-peak-element-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1901-find-a-peak-element-ii) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -98,6 +99,7 @@ Solving leetcode problems
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1898-maximum-number-of-removable-characters](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1898-maximum-number-of-removable-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1903-largest-odd-number-in-string) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3614-process-string-with-special-operations-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3614-process-string-with-special-operations-ii) |
 ## Prefix Sum
 |  |
