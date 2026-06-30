@@ -70,6 +70,7 @@ Solving leetcode problems
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1771-maximize-palindrome-length-from-subsequences](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1771-maximize-palindrome-length-from-subsequences) |
 | [1773-count-items-matching-a-rule](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1773-count-items-matching-a-rule) |
@@ -148,6 +149,7 @@ Solving leetcode problems
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1782-count-pairs-of-nodes](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1782-count-pairs-of-nodes) |
@@ -400,6 +402,7 @@ Solving leetcode problems
 ## Sliding Window
 |  |
 | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1871-jump-game-vii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1871-jump-game-vii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
