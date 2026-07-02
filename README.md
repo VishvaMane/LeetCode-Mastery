@@ -63,6 +63,7 @@ Solving leetcode problems
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1901-find-a-peak-element-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1901-find-a-peak-element-ii) |
 | [1905-count-sub-islands](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1905-count-sub-islands) |
+| [1906-minimum-absolute-difference-queries](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1906-minimum-absolute-difference-queries) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -118,6 +119,7 @@ Solving leetcode problems
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1889-minimum-space-wasted-from-packaging](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1889-minimum-space-wasted-from-packaging) |
 | [1895-largest-magic-square](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1895-largest-magic-square) |
+| [1906-minimum-absolute-difference-queries](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1906-minimum-absolute-difference-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Dynamic Programming
