@@ -67,6 +67,7 @@ Solving leetcode problems
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
@@ -269,6 +270,7 @@ Solving leetcode problems
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1791-find-center-of-star-graph](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1791-find-center-of-star-graph) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -304,10 +306,12 @@ Solving leetcode problems
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1882-process-tasks-using-servers](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1882-process-tasks-using-servers) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -433,6 +437,7 @@ Solving leetcode problems
 | [1901-find-a-peak-element-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1901-find-a-peak-element-ii) |
 | [1905-count-sub-islands](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1905-count-sub-islands) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Game Theory
 |  |
 | ------- |
@@ -465,6 +470,7 @@ Solving leetcode problems
 | ------- |
 | [1905-count-sub-islands](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1905-count-sub-islands) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
 | ------- |
