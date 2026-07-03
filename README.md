@@ -446,6 +446,7 @@ Solving leetcode problems
 |  |
 | ------- |
 | [1890-the-latest-login-in-2020](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1890-the-latest-login-in-2020) |
+| [1907-count-salary-categories](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1907-count-salary-categories) |
 ## Divide and Conquer
 |  |
 | ------- |
