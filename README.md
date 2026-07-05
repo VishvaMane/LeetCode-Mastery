@@ -6,6 +6,7 @@ Solving leetcode problems
 ## Array
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1301-number-of-paths-with-max-score) |
 | [1732-find-the-highest-altitude](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1732-find-the-highest-altitude) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1773-count-items-matching-a-rule](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1773-count-items-matching-a-rule) |
@@ -129,6 +130,7 @@ Solving leetcode problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1301-number-of-paths-with-max-score) |
 | [1771-maximize-palindrome-length-from-subsequences](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1771-maximize-palindrome-length-from-subsequences) |
 | [1774-closest-dessert-cost](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1774-closest-dessert-cost) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
@@ -442,6 +444,7 @@ Solving leetcode problems
 ## Matrix
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1301-number-of-paths-with-max-score) |
 | [1861-rotating-the-box](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1861-rotating-the-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
