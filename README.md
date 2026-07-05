@@ -107,6 +107,7 @@ Solving leetcode problems
 | [1898-maximum-number-of-removable-characters](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1898-maximum-number-of-removable-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1903-largest-odd-number-in-string) |
 | [1904-the-number-of-full-rounds-you-have-played](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1904-the-number-of-full-rounds-you-have-played) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3614-process-string-with-special-operations-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3614-process-string-with-special-operations-ii) |
 ## Prefix Sum
@@ -336,6 +337,7 @@ Solving leetcode problems
 | [1793-maximum-score-of-a-good-subarray](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1856-maximum-subarray-min-product](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1856-maximum-subarray-min-product) |
 | [1896-minimum-cost-to-change-the-final-value-of-expression](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1896-minimum-cost-to-change-the-final-value-of-expression) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -374,6 +376,7 @@ Solving leetcode problems
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1860-incremental-memory-leak](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1860-incremental-memory-leak) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3614-process-string-with-special-operations-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3614-process-string-with-special-operations-ii) |
 ## Trie
 |  |
