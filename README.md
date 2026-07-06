@@ -6,6 +6,7 @@ Solving leetcode problems
 ## Array
 |  |
 | ------- |
+| [1288-remove-covered-intervals](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1301-number-of-paths-with-max-score) |
 | [1732-find-the-highest-altitude](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1732-find-the-highest-altitude) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -285,6 +286,7 @@ Solving leetcode problems
 ## Sorting
 |  |
 | ------- |
+| [1288-remove-covered-intervals](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1288-remove-covered-intervals) |
 | [1782-count-pairs-of-nodes](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1782-count-pairs-of-nodes) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1818-minimum-absolute-sum-difference](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1818-minimum-absolute-sum-difference) |
