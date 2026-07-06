@@ -66,6 +66,7 @@ Solving leetcode problems
 | [1905-count-sub-islands](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1905-count-sub-islands) |
 | [1906-minimum-absolute-difference-queries](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1906-minimum-absolute-difference-queries) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -148,6 +149,7 @@ Solving leetcode problems
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1896-minimum-cost-to-change-the-final-value-of-expression](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1896-minimum-cost-to-change-the-final-value-of-expression) |
 | [1900-the-earliest-and-latest-rounds-where-players-compete](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1900-the-earliest-and-latest-rounds-where-players-compete) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [3620-network-recovery-pathways](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3620-network-recovery-pathways) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Backtracking
