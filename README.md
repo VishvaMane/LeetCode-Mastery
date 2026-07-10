@@ -76,6 +76,7 @@ Solving leetcode problems
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -159,6 +160,7 @@ Solving leetcode problems
 | [1896-minimum-cost-to-change-the-final-value-of-expression](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1896-minimum-cost-to-change-the-final-value-of-expression) |
 | [1900-the-earliest-and-latest-rounds-where-players-compete](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1900-the-earliest-and-latest-rounds-where-players-compete) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1911-maximum-alternating-subsequence-sum) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3620-network-recovery-pathways) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Backtracking
@@ -211,6 +213,7 @@ Solving leetcode problems
 | [1881-maximum-value-after-insertion](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1881-maximum-value-after-insertion) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1903-largest-odd-number-in-string](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1903-largest-odd-number-in-string) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Counting
 |  |
 | ------- |
@@ -269,6 +272,7 @@ Solving leetcode problems
 | [1861-rotating-the-box](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1898-maximum-number-of-removable-characters](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1898-maximum-number-of-removable-characters) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -286,6 +290,7 @@ Solving leetcode problems
 | [1901-find-a-peak-element-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1901-find-a-peak-element-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
 |  |
@@ -297,6 +302,7 @@ Solving leetcode problems
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3620-network-recovery-pathways) |
 ## Sorting
 |  |
@@ -317,6 +323,7 @@ Solving leetcode problems
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1889-minimum-space-wasted-from-packaging](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1889-minimum-space-wasted-from-packaging) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Topological Sort
 |  |
 | ------- |
@@ -355,6 +362,7 @@ Solving leetcode problems
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [1915-number-of-wonderful-substrings](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1915-number-of-wonderful-substrings) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Stack
 |  |
 | ------- |
