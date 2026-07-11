@@ -72,6 +72,7 @@ Solving leetcode problems
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1914-cyclically-rotating-a-grid](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1914-cyclically-rotating-a-grid) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
+| [1920-build-array-from-permutation](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -416,6 +417,7 @@ Solving leetcode problems
 | [1860-incremental-memory-leak](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1860-incremental-memory-leak) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1914-cyclically-rotating-a-grid](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1914-cyclically-rotating-a-grid) |
+| [1920-build-array-from-permutation](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1920-build-array-from-permutation) |
 | [3614-process-string-with-special-operations-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3614-process-string-with-special-operations-ii) |
 ## Trie
 |  |
