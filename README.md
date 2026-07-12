@@ -8,6 +8,7 @@ Solving leetcode problems
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1301-number-of-paths-with-max-score) |
+| [1331-rank-transform-of-an-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1331-rank-transform-of-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1732-find-the-highest-altitude) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1773-count-items-matching-a-rule](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1773-count-items-matching-a-rule) |
@@ -177,6 +178,7 @@ Solving leetcode problems
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -316,6 +318,7 @@ Solving leetcode problems
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1331-rank-transform-of-an-array) |
 | [1782-count-pairs-of-nodes](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1782-count-pairs-of-nodes) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1818-minimum-absolute-sum-difference](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1818-minimum-absolute-sum-difference) |
