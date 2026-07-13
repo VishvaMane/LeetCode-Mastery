@@ -482,6 +482,7 @@ Solving leetcode problems
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1291-sequential-digits) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [1862-sum-of-floored-pairs](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1862-sum-of-floored-pairs) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
