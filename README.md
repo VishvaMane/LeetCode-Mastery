@@ -266,6 +266,7 @@ Solving leetcode problems
 | [1903-largest-odd-number-in-string](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1903-largest-odd-number-in-string) |
 | [1904-the-number-of-full-rounds-you-have-played](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1904-the-number-of-full-rounds-you-have-played) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
+| [1922-count-good-numbers](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1922-count-good-numbers) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -435,6 +436,7 @@ Solving leetcode problems
 | ------- |
 | [1808-maximize-number-of-nice-divisors](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1808-maximize-number-of-nice-divisors) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1922-count-good-numbers](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1922-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
