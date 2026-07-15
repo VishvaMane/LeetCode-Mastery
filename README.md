@@ -270,6 +270,7 @@ Solving leetcode problems
 | [1904-the-number-of-full-rounds-you-have-played](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1904-the-number-of-full-rounds-you-have-played) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [1922-count-good-numbers](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1922-count-good-numbers) |
+| [1925-count-square-sum-triples](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1925-count-square-sum-triples) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -493,6 +494,7 @@ Solving leetcode problems
 | [1291-sequential-digits](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1291-sequential-digits) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [1862-sum-of-floored-pairs](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1862-sum-of-floored-pairs) |
+| [1925-count-square-sum-triples](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1925-count-square-sum-triples) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Sweep Line
 |  |
