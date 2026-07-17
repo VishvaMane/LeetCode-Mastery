@@ -81,6 +81,7 @@ Solving leetcode problems
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -144,6 +145,7 @@ Solving leetcode problems
 | [1895-largest-magic-square](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1895-largest-magic-square) |
 | [1906-minimum-absolute-difference-queries](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1906-minimum-absolute-difference-queries) |
 | [1915-number-of-wonderful-substrings](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1915-number-of-wonderful-substrings) |
+| [3312-sorted-gcd-pair-queries](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -204,6 +206,7 @@ Solving leetcode problems
 | [1912-design-movie-rental-system](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1912-design-movie-rental-system) |
 | [1915-number-of-wonderful-substrings](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1915-number-of-wonderful-substrings) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3312-sorted-gcd-pair-queries](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -244,6 +247,7 @@ Solving leetcode problems
 | [1862-sum-of-floored-pairs](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1862-sum-of-floored-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
+| [3312-sorted-gcd-pair-queries](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
 |  |
@@ -276,6 +280,7 @@ Solving leetcode problems
 | [1922-count-good-numbers](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1922-count-good-numbers) |
 | [1925-count-square-sum-triples](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1925-count-square-sum-triples) |
 | [1927-sum-game](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1927-sum-game) |
+| [3312-sorted-gcd-pair-queries](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -312,6 +317,7 @@ Solving leetcode problems
 | [1901-find-a-peak-element-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1901-find-a-peak-element-ii) |
 | [1923-longest-common-subpath](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1923-longest-common-subpath) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3620-network-recovery-pathways) |
@@ -425,6 +431,7 @@ Solving leetcode problems
 | ------- |
 | [1799-maximize-score-after-n-operations](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1799-maximize-score-after-n-operations) |
 | [1808-maximize-number-of-nice-divisors](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1808-maximize-number-of-nice-divisors) |
+| [3312-sorted-gcd-pair-queries](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -488,6 +495,7 @@ Solving leetcode problems
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
+| [3312-sorted-gcd-pair-queries](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3312-sorted-gcd-pair-queries) |
 ## Counting Sort
 |  |
 | ------- |
