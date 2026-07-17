@@ -125,6 +125,7 @@ Solving leetcode problems
 | [1904-the-number-of-full-rounds-you-have-played](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1904-the-number-of-full-rounds-you-have-played) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1915-number-of-wonderful-substrings](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1915-number-of-wonderful-substrings) |
+| [1927-sum-game](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3614-process-string-with-special-operations-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3614-process-string-with-special-operations-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -225,6 +226,7 @@ Solving leetcode problems
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1903-largest-odd-number-in-string](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1903-largest-odd-number-in-string) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1921-eliminate-maximum-number-of-monsters) |
+| [1927-sum-game](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1927-sum-game) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Counting
 |  |
@@ -273,6 +275,7 @@ Solving leetcode problems
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [1922-count-good-numbers](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1922-count-good-numbers) |
 | [1925-count-square-sum-triples](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1925-count-square-sum-triples) |
+| [1927-sum-game](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1927-sum-game) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -527,6 +530,7 @@ Solving leetcode problems
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1872-stone-game-viii) |
+| [1927-sum-game](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1927-sum-game) |
 ## Database
 |  |
 | ------- |
