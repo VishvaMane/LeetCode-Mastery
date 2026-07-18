@@ -79,6 +79,7 @@ Solving leetcode problems
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -282,6 +283,7 @@ Solving leetcode problems
 | [1922-count-good-numbers](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1922-count-good-numbers) |
 | [1925-count-square-sum-triples](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1925-count-square-sum-triples) |
 | [1927-sum-game](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1927-sum-game) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -434,6 +436,7 @@ Solving leetcode problems
 | ------- |
 | [1799-maximize-score-after-n-operations](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1799-maximize-score-after-n-operations) |
 | [1808-maximize-number-of-nice-divisors](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1808-maximize-number-of-nice-divisors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3658-gcd-of-odd-and-even-sums) |
