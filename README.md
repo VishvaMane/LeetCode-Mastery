@@ -10,6 +10,7 @@ Solving leetcode problems
 | [1288-remove-covered-intervals](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1732-find-the-highest-altitude) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1773-count-items-matching-a-rule](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1773-count-items-matching-a-rule) |
@@ -364,6 +365,7 @@ Solving leetcode problems
 | [0628-maximum-product-of-three-numbers](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1782-count-pairs-of-nodes](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1782-count-pairs-of-nodes) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1818-minimum-absolute-sum-difference](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1818-minimum-absolute-sum-difference) |
@@ -393,6 +395,7 @@ Solving leetcode problems
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1792-maximum-average-pass-ratio](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1792-maximum-average-pass-ratio) |
 | [1801-number-of-orders-in-the-backlog](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1801-number-of-orders-in-the-backlog) |
