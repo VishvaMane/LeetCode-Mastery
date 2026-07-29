@@ -141,6 +141,7 @@ Solving leetcode problems
 | [3499-maximize-active-section-with-trade-i](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3614-process-string-with-special-operations-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3614-process-string-with-special-operations-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
@@ -224,6 +225,7 @@ Solving leetcode problems
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3312-sorted-gcd-pair-queries](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -266,6 +268,7 @@ Solving leetcode problems
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [3312-sorted-gcd-pair-queries](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
 |  |
@@ -304,6 +307,7 @@ Solving leetcode problems
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -533,6 +537,7 @@ Solving leetcode problems
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [3312-sorted-gcd-pair-queries](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Counting Sort
 |  |
 | ------- |
