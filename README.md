@@ -138,6 +138,7 @@ Solving leetcode problems
 | [1927-sum-game](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1927-sum-game) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -250,6 +251,7 @@ Solving leetcode problems
 | [1903-largest-odd-number-in-string](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1903-largest-odd-number-in-string) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1927-sum-game](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1927-sum-game) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Counting
 |  |
@@ -303,6 +305,7 @@ Solving leetcode problems
 | [1925-count-square-sum-triples](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1925-count-square-sum-triples) |
 | [1927-sum-game](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3513-number-of-unique-xor-triplets-i) |
