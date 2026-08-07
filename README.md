@@ -144,6 +144,7 @@ Solving leetcode problems
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -208,6 +209,7 @@ Solving leetcode problems
 | [1774-closest-dessert-cost](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1774-closest-dessert-cost) |
 | [1799-maximize-score-after-n-operations](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1799-maximize-score-after-n-operations) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -263,6 +265,7 @@ Solving leetcode problems
 | [1927-sum-game](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Counting
 |  |
@@ -324,6 +327,7 @@ Solving leetcode problems
 | [3312-sorted-gcd-pair-queries](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -495,6 +499,7 @@ Solving leetcode problems
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bitmask
