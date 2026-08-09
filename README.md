@@ -9,6 +9,7 @@ Solving leetcode problems
 | [0486-predict-the-winner](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1140-stone-game-ii) |
 | [1288-remove-covered-intervals](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1331-rank-transform-of-an-array) |
@@ -155,6 +156,7 @@ Solving leetcode problems
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1140-stone-game-ii) |
 | [1732-find-the-highest-altitude](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1732-find-the-highest-altitude) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1854-maximum-population-year](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1854-maximum-population-year) |
@@ -177,6 +179,7 @@ Solving leetcode problems
 | ------- |
 | [0486-predict-the-winner](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1406-stone-game-iii) |
 | [1771-maximize-palindrome-length-from-subsequences](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1771-maximize-palindrome-length-from-subsequences) |
@@ -296,6 +299,7 @@ Solving leetcode problems
 | [0486-predict-the-winner](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1406-stone-game-iii) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
@@ -617,6 +621,7 @@ Solving leetcode problems
 | ------- |
 | [0486-predict-the-winner](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1406-stone-game-iii) |
 | [1872-stone-game-viii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1927-sum-game) |
@@ -683,4 +688,12 @@ Solving leetcode problems
 |  |
 | ------- |
 | [1923-longest-common-subpath](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1923-longest-common-subpath) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
