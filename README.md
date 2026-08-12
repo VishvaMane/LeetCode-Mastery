@@ -88,6 +88,7 @@ Solving leetcode problems
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -241,6 +242,7 @@ Solving leetcode problems
 | [1912-design-movie-rental-system](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1912-design-movie-rental-system) |
 | [1915-number-of-wonderful-substrings](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1915-number-of-wonderful-substrings) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -592,6 +594,7 @@ Solving leetcode problems
 | [1871-jump-game-vii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1871-jump-game-vii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Enumeration
 |  |
 | ------- |
