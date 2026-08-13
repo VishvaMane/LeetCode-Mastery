@@ -85,6 +85,7 @@ Solving leetcode problems
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1929-concatenation-of-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1929-concatenation-of-array) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -244,6 +245,7 @@ Solving leetcode problems
 | [1912-design-movie-rental-system](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1912-design-movie-rental-system) |
 | [1915-number-of-wonderful-substrings](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1915-number-of-wonderful-substrings) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -664,6 +666,7 @@ Solving leetcode problems
 | ------- |
 | [1905-count-sub-islands](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1905-count-sub-islands) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3310-remove-methods-from-project) |
@@ -689,6 +692,7 @@ Solving leetcode problems
 |  |
 | ------- |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -719,4 +723,12 @@ Solving leetcode problems
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1510-stone-game-iv) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1932-merge-bsts-to-create-single-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1932-merge-bsts-to-create-single-bst) |
 <!---LeetCode Topics End-->
