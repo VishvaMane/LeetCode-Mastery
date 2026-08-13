@@ -87,6 +87,7 @@ Solving leetcode problems
 | [1929-concatenation-of-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -145,6 +146,7 @@ Solving leetcode problems
 | [1927-sum-game](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1927-sum-game) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -560,6 +562,7 @@ Solving leetcode problems
 | [1825-finding-mk-average](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1825-finding-mk-average) |
 | [1847-closest-room](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1847-closest-room) |
 | [1912-design-movie-rental-system](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1912-design-movie-rental-system) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Queue
 |  |
 | ------- |
@@ -647,6 +650,7 @@ Solving leetcode problems
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3739-count-subarrays-with-majority-element-ii) |
