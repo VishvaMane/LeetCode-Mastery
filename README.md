@@ -13,6 +13,7 @@ Solving leetcode problems
 | [1288-remove-covered-intervals](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1563-stone-game-v) |
@@ -233,6 +234,7 @@ Solving leetcode problems
 | [1189-maximum-number-of-balloons](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1386-cinema-seat-allocation) |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1782-count-pairs-of-nodes](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1782-count-pairs-of-nodes) |
@@ -268,6 +270,7 @@ Solving leetcode problems
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1386-cinema-seat-allocation) |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1792-maximum-average-pass-ratio](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1792-maximum-average-pass-ratio) |
@@ -481,6 +484,7 @@ Solving leetcode problems
 ## Bit Manipulation
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1386-cinema-seat-allocation) |
 | [1787-make-the-xor-of-all-segments-equal-to-zero](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1787-make-the-xor-of-all-segments-equal-to-zero) |
 | [1799-maximize-score-after-n-operations](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1799-maximize-score-after-n-operations) |
 | [1803-count-pairs-with-xor-in-a-range](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1803-count-pairs-with-xor-in-a-range) |
