@@ -89,6 +89,7 @@ Solving leetcode problems
 | [1929-concatenation-of-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1929-concatenation-of-array) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [1936-add-minimum-number-of-rungs](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1936-add-minimum-number-of-rungs) |
+| [1937-maximum-number-of-points-with-cost](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1937-maximum-number-of-points-with-cost) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2029-stone-game-ix) |
@@ -218,6 +219,7 @@ Solving leetcode problems
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1931-painting-a-grid-with-three-different-colors](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1931-painting-a-grid-with-three-different-colors) |
+| [1937-maximum-number-of-points-with-cost](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1937-maximum-number-of-points-with-cost) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -648,6 +650,7 @@ Solving leetcode problems
 | [1905-count-sub-islands](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1905-count-sub-islands) |
 | [1914-cyclically-rotating-a-grid](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1914-cyclically-rotating-a-grid) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [1937-maximum-number-of-points-with-cost](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1937-maximum-number-of-points-with-cost) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Game Theory
