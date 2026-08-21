@@ -88,6 +88,7 @@ Solving leetcode problems
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1929-concatenation-of-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1929-concatenation-of-array) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1932-merge-bsts-to-create-single-bst) |
+| [1936-add-minimum-number-of-rungs](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1936-add-minimum-number-of-rungs) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2029-stone-game-ix) |
@@ -289,6 +290,7 @@ Solving leetcode problems
 | [1903-largest-odd-number-in-string](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1903-largest-odd-number-in-string) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1927-sum-game](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1927-sum-game) |
+| [1936-add-minimum-number-of-rungs](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1936-add-minimum-number-of-rungs) |
 | [2029-stone-game-ix](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
