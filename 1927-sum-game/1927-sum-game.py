@@ -2,12 +2,26 @@ class Solution:
     def sumGame(self, num: str) -> bool:
         n = len(num)
         half = n // 2
-        cnt1 = num[:half].count('?')
-        cnt2 = num[half:].count('?')
-        s1 = sum(int(c) for c in num[:half] if c != '?')
-        s2 = sum(int(c) for c in num[half:] if c != '?')
         
-        if (cnt1 + cnt2) % 2 == 1:
-            return True  # Alice wins
+        sum_left = sum_right = 0
+        q_left = q_right = 0
         
-        return s1 - s2 != 9 * (cnt2 - cnt1) // 2
+        for i in range(half):
+            if num[i] == '?':
+                q_left += 1
+            else:
+                sum_left += int(num[i])
+                
+        for i in range(half, n):
+            if num[i] == '?':
+                q_right += 1
+            else:
+                sum_right += int(num[i])
+                
+        if (q_left + q_right) % 2 != 0:
+            return True
+            
+        if sum_left - sum_right == (q_right - q_left) // 2 * 9:
+            return False
+            
+        return True
