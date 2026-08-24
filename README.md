@@ -745,12 +745,14 @@ Solving leetcode problems
 | ------- |
 | [1140-stone-game-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
