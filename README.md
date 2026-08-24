@@ -91,6 +91,7 @@ Solving leetcode problems
 | [1936-add-minimum-number-of-rungs](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1936-add-minimum-number-of-rungs) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1937-maximum-number-of-points-with-cost) |
 | [1938-maximum-genetic-difference-query](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1938-maximum-genetic-difference-query) |
+| [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2029-stone-game-ix) |
@@ -263,6 +264,7 @@ Solving leetcode problems
 | [1935-maximum-number-of-words-you-can-type](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1938-maximum-genetic-difference-query](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1938-maximum-genetic-difference-query) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -483,6 +485,7 @@ Solving leetcode problems
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1882-process-tasks-using-servers](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1882-process-tasks-using-servers) |
 | [1912-design-movie-rental-system](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1912-design-movie-rental-system) |
+| [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3620-network-recovery-pathways) |
