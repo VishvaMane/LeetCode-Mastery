@@ -97,6 +97,7 @@ Solving leetcode problems
 | [1946-largest-number-after-mutating-substring](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1946-largest-number-after-mutating-substring) |
 | [1947-maximum-compatibility-score-sum](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1947-maximum-compatibility-score-sum) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1948-delete-duplicate-folders-in-system) |
+| [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2029-stone-game-ix) |
@@ -328,6 +329,7 @@ Solving leetcode problems
 | [1927-sum-game](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1927-sum-game) |
 | [1936-add-minimum-number-of-rungs](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1936-add-minimum-number-of-rungs) |
 | [1946-largest-number-after-mutating-substring](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1946-largest-number-after-mutating-substring) |
+| [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
 | [2029-stone-game-ix](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
