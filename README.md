@@ -762,6 +762,7 @@ Solving leetcode problems
 | [1932-merge-bsts-to-create-single-bst](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [1938-maximum-genetic-difference-query](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1938-maximum-genetic-difference-query) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1948-delete-duplicate-folders-in-system) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3310-remove-methods-from-project) |
@@ -789,6 +790,7 @@ Solving leetcode problems
 | ------- |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1932-merge-bsts-to-create-single-bst) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -833,6 +835,7 @@ Solving leetcode problems
 |  |
 | ------- |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1932-merge-bsts-to-create-single-bst) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Hungarian Algorithm
 |  |
 | ------- |
