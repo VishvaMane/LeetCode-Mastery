@@ -98,6 +98,7 @@ Solving leetcode problems
 | [1947-maximum-compatibility-score-sum](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1947-maximum-compatibility-score-sum) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1948-delete-duplicate-folders-in-system) |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
+| [1955-count-number-of-special-subsequences](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1955-count-number-of-special-subsequences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2029-stone-game-ix) |
@@ -248,6 +249,7 @@ Solving leetcode problems
 | [1931-painting-a-grid-with-three-different-colors](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1931-painting-a-grid-with-three-different-colors) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1937-maximum-number-of-points-with-cost) |
 | [1947-maximum-compatibility-score-sum](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1947-maximum-compatibility-score-sum) |
+| [1955-count-number-of-special-subsequences](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1955-count-number-of-special-subsequences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
