@@ -372,6 +372,7 @@ Solving leetcode problems
 | ------- |
 | [0486-predict-the-winner](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -673,6 +674,7 @@ Solving leetcode problems
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/0836-rectangle-overlap) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 ## Combinatorics
 |  |
