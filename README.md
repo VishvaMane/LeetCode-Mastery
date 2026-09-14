@@ -177,6 +177,7 @@ Solving leetcode problems
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1946-largest-number-after-mutating-substring](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1946-largest-number-after-mutating-substring) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1948-delete-duplicate-folders-in-system) |
+| [1957-delete-characters-to-make-fancy-string](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
