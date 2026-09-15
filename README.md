@@ -99,6 +99,7 @@ Solving leetcode problems
 | [1948-delete-duplicate-folders-in-system](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1948-delete-duplicate-folders-in-system) |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
 | [1955-count-number-of-special-subsequences](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1955-count-number-of-special-subsequences) |
+| [1958-check-if-move-is-legal](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1958-check-if-move-is-legal) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2029-stone-game-ix) |
@@ -712,6 +713,7 @@ Solving leetcode problems
 | [1862-sum-of-floored-pairs](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1862-sum-of-floored-pairs) |
 | [1925-count-square-sum-triples](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1952-three-divisors) |
+| [1958-check-if-move-is-legal](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1958-check-if-move-is-legal) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3483-unique-3-digit-even-numbers) |
@@ -736,6 +738,7 @@ Solving leetcode problems
 | [1914-cyclically-rotating-a-grid](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1914-cyclically-rotating-a-grid) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1937-maximum-number-of-points-with-cost) |
+| [1958-check-if-move-is-legal](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1958-check-if-move-is-legal) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3568-minimum-moves-to-clean-the-classroom) |
