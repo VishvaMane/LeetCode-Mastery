@@ -199,6 +199,7 @@ Solving leetcode problems
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1140-stone-game-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1732-find-the-highest-altitude](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1732-find-the-highest-altitude) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1854-maximum-population-year](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1854-maximum-population-year) |
@@ -229,6 +230,7 @@ Solving leetcode problems
 | [1406-stone-game-iii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1771-maximize-palindrome-length-from-subsequences](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1771-maximize-palindrome-length-from-subsequences) |
 | [1774-closest-dessert-cost](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1774-closest-dessert-cost) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
@@ -384,6 +386,7 @@ Solving leetcode problems
 | [1406-stone-game-iii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1799-maximize-score-after-n-operations](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1799-maximize-score-after-n-operations) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
@@ -685,6 +688,7 @@ Solving leetcode problems
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
