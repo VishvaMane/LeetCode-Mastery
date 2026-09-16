@@ -100,6 +100,7 @@ Solving leetcode problems
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
 | [1955-count-number-of-special-subsequences](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1955-count-number-of-special-subsequences) |
 | [1958-check-if-move-is-legal](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1958-check-if-move-is-legal) |
+| [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1959-minimum-total-space-wasted-with-k-resizing-operations) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2029-stone-game-ix) |
@@ -214,6 +215,7 @@ Solving leetcode problems
 | [1915-number-of-wonderful-substrings](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1915-number-of-wonderful-substrings) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1943-describe-the-painting](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1943-describe-the-painting) |
+| [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1959-minimum-total-space-wasted-with-k-resizing-operations) |
 | [3312-sorted-gcd-pair-queries](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -255,6 +257,7 @@ Solving leetcode problems
 | [1937-maximum-number-of-points-with-cost](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1937-maximum-number-of-points-with-cost) |
 | [1947-maximum-compatibility-score-sum](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1947-maximum-compatibility-score-sum) |
 | [1955-count-number-of-special-subsequences](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1955-count-number-of-special-subsequences) |
+| [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1959-minimum-total-space-wasted-with-k-resizing-operations) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
