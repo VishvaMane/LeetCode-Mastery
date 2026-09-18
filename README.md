@@ -140,6 +140,7 @@ Solving leetcode problems
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1771-maximize-palindrome-length-from-subsequences](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1771-maximize-palindrome-length-from-subsequences) |
 | [1773-count-items-matching-a-rule](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1773-count-items-matching-a-rule) |
@@ -280,6 +281,7 @@ Solving leetcode problems
 | [1331-rank-transform-of-an-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1782-count-pairs-of-nodes](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1782-count-pairs-of-nodes) |
@@ -325,6 +327,7 @@ Solving leetcode problems
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1775-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1792-maximum-average-pass-ratio](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1792-maximum-average-pass-ratio) |
@@ -503,6 +506,7 @@ Solving leetcode problems
 | [1288-remove-covered-intervals](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1782-count-pairs-of-nodes](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1782-count-pairs-of-nodes) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1818-minimum-absolute-sum-difference](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1818-minimum-absolute-sum-difference) |
