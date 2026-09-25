@@ -142,6 +142,7 @@ Solving leetcode problems
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -276,6 +277,7 @@ Solving leetcode problems
 ## Backtracking
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1096-brace-expansion-ii) |
 | [1774-closest-dessert-cost](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1774-closest-dessert-cost) |
 | [1799-maximize-score-after-n-operations](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1799-maximize-score-after-n-operations) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
@@ -284,6 +286,7 @@ Solving leetcode problems
 ## Hash Table
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -516,6 +519,7 @@ Solving leetcode problems
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/0628-maximum-product-of-three-numbers) |
+| [1096-brace-expansion-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -600,6 +604,7 @@ Solving leetcode problems
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1096-brace-expansion-ii) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1856-maximum-subarray-min-product](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1856-maximum-subarray-min-product) |
 | [1896-minimum-cost-to-change-the-final-value-of-expression](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1896-minimum-cost-to-change-the-final-value-of-expression) |
@@ -819,6 +824,7 @@ Solving leetcode problems
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1096-brace-expansion-ii) |
 | [1905-count-sub-islands](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1905-count-sub-islands) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
