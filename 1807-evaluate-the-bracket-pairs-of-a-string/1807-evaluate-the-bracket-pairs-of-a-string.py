@@ -1,22 +1,12 @@
-from typing import List
-
 class Solution:
-    def evaluate(self, s: str, knowledge: List[List[str]]) -> str:
-        mp = {k: v for k, v in knowledge}
-        res = []
-        i = 0
-        n = len(s)
-
-        while i < n:
-            if s[i] == '(':
-                j = i + 1
-                while s[j] != ')':
-                    j += 1
-                key = s[i + 1:j]
-                res.append(mp.get(key, '?'))
-                i = j + 1
-            else:
-                res.append(s[i])
-                i += 1
-
-        return ''.join(res)
+    def evaluate(self, s: str, knowledge: list[list[str]]) -> str:
+        d = {k: v for k, v in knowledge}
+        parts = s.split('(')
+        res = [parts[0]]
+        
+        for part in parts[1:]:
+            key, rest = part.split(')')
+            res.append(d.get(key, '?'))
+            res.append(rest)
+            
+        return "".join(res)
