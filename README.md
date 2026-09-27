@@ -187,6 +187,7 @@ Solving leetcode problems
 | [1946-largest-number-after-mutating-substring](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1946-largest-number-after-mutating-substring) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1948-delete-duplicate-folders-in-system) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1957-delete-characters-to-make-fancy-string) |
+| [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -470,6 +471,7 @@ Solving leetcode problems
 | [1861-rotating-the-box](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1898-maximum-number-of-removable-characters](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1898-maximum-number-of-removable-characters) |
+| [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -853,6 +855,7 @@ Solving leetcode problems
 |  |
 | ------- |
 | [1923-longest-common-subpath](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1923-longest-common-subpath) |
+| [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
 ## Suffix Array
 |  |
 | ------- |
@@ -862,6 +865,7 @@ Solving leetcode problems
 | ------- |
 | [1923-longest-common-subpath](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1923-longest-common-subpath) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1948-delete-duplicate-folders-in-system) |
+| [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
 ## Minimax
 |  |
 | ------- |
@@ -934,4 +938,12 @@ Solving leetcode problems
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Manacher
+|  |
+| ------- |
+| [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
+## Palindromic Tree
+|  |
+| ------- |
+| [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
 <!---LeetCode Topics End-->
