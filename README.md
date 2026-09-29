@@ -107,6 +107,7 @@ Solving leetcode problems
 | [2029-stone-game-ix](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -269,6 +270,7 @@ Solving leetcode problems
 | [1947-maximum-compatibility-score-sum](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1947-maximum-compatibility-score-sum) |
 | [1955-count-number-of-special-subsequences](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1955-count-number-of-special-subsequences) |
 | [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1959-minimum-total-space-wasted-with-k-resizing-operations) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -777,6 +779,7 @@ Solving leetcode problems
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1937-maximum-number-of-points-with-cost) |
 | [1958-check-if-move-is-legal](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1958-check-if-move-is-legal) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -941,6 +944,7 @@ Solving leetcode problems
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Manacher
 |  |
 | ------- |
