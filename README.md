@@ -102,6 +102,7 @@ Solving leetcode problems
 | [1955-count-number-of-special-subsequences](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1955-count-number-of-special-subsequences) |
 | [1958-check-if-move-is-legal](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1958-check-if-move-is-legal) |
 | [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1959-minimum-total-space-wasted-with-k-resizing-operations) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2029-stone-game-ix) |
@@ -191,6 +192,7 @@ Solving leetcode problems
 | [1948-delete-duplicate-folders-in-system](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1948-delete-duplicate-folders-in-system) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -476,6 +478,7 @@ Solving leetcode problems
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1898-maximum-number-of-removable-characters](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1898-maximum-number-of-removable-characters) |
 | [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3534-path-existence-queries-in-a-graph-ii) |
