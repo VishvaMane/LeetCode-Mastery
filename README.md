@@ -103,6 +103,7 @@ Solving leetcode problems
 | [1958-check-if-move-is-legal](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1958-check-if-move-is-legal) |
 | [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1959-minimum-total-space-wasted-with-k-resizing-operations) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2029-stone-game-ix) |
@@ -367,6 +368,7 @@ Solving leetcode problems
 | [1936-add-minimum-number-of-rungs](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1936-add-minimum-number-of-rungs) |
 | [1946-largest-number-after-mutating-substring](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1946-largest-number-after-mutating-substring) |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2029-stone-game-ix](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -582,6 +584,7 @@ Solving leetcode problems
 | [1882-process-tasks-using-servers](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1882-process-tasks-using-servers) |
 | [1912-design-movie-rental-system](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1912-design-movie-rental-system) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3620-network-recovery-pathways) |
