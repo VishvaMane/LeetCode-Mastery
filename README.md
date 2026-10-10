@@ -104,6 +104,7 @@ Solving leetcode problems
 | [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1959-minimum-total-space-wasted-with-k-resizing-operations) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2029-stone-game-ix) |
@@ -523,6 +524,7 @@ Solving leetcode problems
 | [1901-find-a-peak-element-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1901-find-a-peak-element-ii) |
 | [1923-longest-common-subpath](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1923-longest-common-subpath) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3312-sorted-gcd-pair-queries) |
@@ -1001,4 +1003,12 @@ Solving leetcode problems
 |  |
 | ------- |
 | [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 <!---LeetCode Topics End-->
