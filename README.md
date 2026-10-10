@@ -110,6 +110,7 @@ Solving leetcode problems
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -387,6 +388,7 @@ Solving leetcode problems
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2029-stone-game-ix](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -521,6 +523,7 @@ Solving leetcode problems
 | [1901-find-a-peak-element-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1901-find-a-peak-element-ii) |
 | [1923-longest-common-subpath](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1923-longest-common-subpath) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -571,6 +574,7 @@ Solving leetcode problems
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1943-describe-the-painting](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1943-describe-the-painting) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1948-delete-duplicate-folders-in-system) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -602,6 +606,7 @@ Solving leetcode problems
 | [1912-design-movie-rental-system](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1912-design-movie-rental-system) |
 | [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1942-the-number-of-the-smallest-unoccupied-chair) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3620-network-recovery-pathways) |
