@@ -117,6 +117,7 @@ Solving leetcode problems
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -348,6 +349,7 @@ Solving leetcode problems
 | [1948-delete-duplicate-folders-in-system](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1948-delete-duplicate-folders-in-system) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -867,6 +869,7 @@ Solving leetcode problems
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3525-find-x-value-of-array-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -1026,6 +1029,7 @@ Solving leetcode problems
 | ------- |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
