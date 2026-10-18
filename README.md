@@ -17,6 +17,7 @@ Solving leetcode problems
 | [1406-stone-game-iii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1732-find-the-highest-altitude) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -268,6 +269,7 @@ Solving leetcode problems
 | [1406-stone-game-iii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1771-maximize-palindrome-length-from-subsequences](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1771-maximize-palindrome-length-from-subsequences) |
 | [1774-closest-dessert-cost](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1774-closest-dessert-cost) |
@@ -449,6 +451,7 @@ Solving leetcode problems
 | [1406-stone-game-iii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1799-maximize-score-after-n-operations](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1799-maximize-score-after-n-operations) |
@@ -757,6 +760,7 @@ Solving leetcode problems
 ## Memoization
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1815-maximum-number-of-groups-getting-fresh-donuts](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1815-maximum-number-of-groups-getting-fresh-donuts) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1900-the-earliest-and-latest-rounds-where-players-compete](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1900-the-earliest-and-latest-rounds-where-players-compete) |
@@ -786,6 +790,7 @@ Solving leetcode problems
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
@@ -868,6 +873,7 @@ Solving leetcode problems
 ## Divide and Conquer
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -913,6 +919,7 @@ Solving leetcode problems
 ## Union-Find
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1905-count-sub-islands](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1905-count-sub-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2685-count-the-number-of-complete-components) |
@@ -921,6 +928,7 @@ Solving leetcode problems
 ## Tree
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -965,10 +973,12 @@ Solving leetcode problems
 ## Binary Search Tree
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Binary Tree
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Hungarian Algorithm
@@ -1040,4 +1050,8 @@ Solving leetcode problems
 |  |
 | ------- |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
