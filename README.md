@@ -108,6 +108,7 @@ Solving leetcode problems
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2029-stone-game-ix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -547,6 +548,7 @@ Solving leetcode problems
 | [1923-longest-common-subpath](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1923-longest-common-subpath) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -851,6 +853,7 @@ Solving leetcode problems
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1937-maximum-number-of-points-with-cost) |
 | [1958-check-if-move-is-legal](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1958-check-if-move-is-legal) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -902,6 +905,7 @@ Solving leetcode problems
 | [1932-merge-bsts-to-create-single-bst](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [1938-maximum-genetic-difference-query](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1938-maximum-genetic-difference-query) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1948-delete-duplicate-folders-in-system) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2685-count-the-number-of-complete-components) |
@@ -913,6 +917,7 @@ Solving leetcode problems
 | [1096-brace-expansion-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1096-brace-expansion-ii) |
 | [1905-count-sub-islands](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1905-count-sub-islands) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -924,6 +929,7 @@ Solving leetcode problems
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1905-count-sub-islands](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1905-count-sub-islands) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2812-find-the-safest-path-in-a-grid) |
