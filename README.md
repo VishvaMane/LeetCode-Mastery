@@ -110,6 +110,7 @@ Solving leetcode problems
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2029-stone-game-ix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -546,6 +547,7 @@ Solving leetcode problems
 | [1923-longest-common-subpath](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1923-longest-common-subpath) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3312-sorted-gcd-pair-queries) |
@@ -598,6 +600,7 @@ Solving leetcode problems
 | [1943-describe-the-painting](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1943-describe-the-painting) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1948-delete-duplicate-folders-in-system) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
