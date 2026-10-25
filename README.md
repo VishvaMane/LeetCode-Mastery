@@ -10,6 +10,7 @@ Solving leetcode problems
 | [0628-maximum-product-of-three-numbers](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1254-number-of-closed-islands) |
 | [1288-remove-covered-intervals](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1331-rank-transform-of-an-array) |
@@ -852,6 +853,7 @@ Solving leetcode problems
 ## Matrix
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1254-number-of-closed-islands) |
 | [1301-number-of-paths-with-max-score](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1301-number-of-paths-with-max-score) |
 | [1861-rotating-the-box](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1861-rotating-the-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -910,6 +912,7 @@ Solving leetcode problems
 ## Depth-First Search
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1254-number-of-closed-islands) |
 | [1905-count-sub-islands](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1905-count-sub-islands) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1932-merge-bsts-to-create-single-bst) |
@@ -925,6 +928,7 @@ Solving leetcode problems
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1254-number-of-closed-islands) |
 | [1905-count-sub-islands](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1905-count-sub-islands) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -937,6 +941,7 @@ Solving leetcode problems
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1905-count-sub-islands](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1905-count-sub-islands) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1970-last-day-where-you-can-still-cross) |
