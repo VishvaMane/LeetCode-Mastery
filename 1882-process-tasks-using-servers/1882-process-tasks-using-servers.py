@@ -2,31 +2,28 @@ import heapq
 
 class Solution:
     def assignTasks(self, servers: list[int], tasks: list[int]) -> list[int]:
-        n = len(servers)
-        m = len(tasks)
-        ans = [0] * m
+        free_servers = [(weight, i) for i, weight in enumerate(servers)]
+        heapq.heapify(free_servers)
         
-        free = []
-        used = []
+        busy_servers = []
+        ans = []
+        current_time = 0
         
-        for i, weight in enumerate(servers):
-            heapq.heappush(free, (weight, i, 0))
-        
-        for i in range(m):
-            current_time = i
-            execution_time = tasks[i]
+        for j, task in enumerate(tasks):
+            current_time = max(current_time, j)
             
-            while used and used[0][0] <= current_time:
-                free_time, weight, idx = heapq.heappop(used)
-                heapq.heappush(free, (weight, idx, free_time))
+            while busy_servers and busy_servers[0][0] <= current_time:
+                time_free, weight, index = heapq.heappop(busy_servers)
+                heapq.heappush(free_servers, (weight, index))
+                
+            if not free_servers:
+                current_time = busy_servers[0][0]
+                while busy_servers and busy_servers[0][0] <= current_time:
+                    time_free, weight, index = heapq.heappop(busy_servers)
+                    heapq.heappush(free_servers, (weight, index))
+                    
+            weight, index = heapq.heappop(free_servers)
+            ans.append(index)
+            heapq.heappush(busy_servers, (current_time + task, weight, index))
             
-            if free:
-                weight, idx, free_time = heapq.heappop(free)
-                ans[i] = idx
-                heapq.heappush(used, (current_time + execution_time, weight, idx))
-            else:
-                free_time, weight, idx = heapq.heappop(used)
-                ans[i] = idx
-                heapq.heappush(used, (free_time + execution_time, weight, idx))
-        
-        return ans    
+        return ans
