@@ -23,6 +23,7 @@ Solving leetcode problems
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1732-find-the-highest-altitude) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -664,6 +665,7 @@ Solving leetcode problems
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1792-maximum-average-pass-ratio](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1792-maximum-average-pass-ratio) |
 | [1801-number-of-orders-in-the-backlog](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1801-number-of-orders-in-the-backlog) |
@@ -779,6 +781,7 @@ Solving leetcode problems
 ## Simulation
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1801-number-of-orders-in-the-backlog](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1801-number-of-orders-in-the-backlog) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -817,6 +820,7 @@ Solving leetcode problems
 ## Ordered Set
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1818-minimum-absolute-sum-difference](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1818-minimum-absolute-sum-difference) |
 | [1825-finding-mk-average](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1825-finding-mk-average) |
 | [1847-closest-room](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1847-closest-room) |
