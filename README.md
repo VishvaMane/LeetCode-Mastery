@@ -238,6 +238,7 @@ Solving leetcode problems
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -805,6 +806,7 @@ Solving leetcode problems
 | [1920-build-array-from-permutation](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1929-concatenation-of-array) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3498-reverse-degree-of-a-string) |
 | [3614-process-string-with-special-operations-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3614-process-string-with-special-operations-ii) |
