@@ -237,6 +237,7 @@ Solving leetcode problems
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2409-count-days-spent-together) |
@@ -442,6 +443,7 @@ Solving leetcode problems
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2029-stone-game-ix](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2333-minimum-sum-of-squared-difference) |
