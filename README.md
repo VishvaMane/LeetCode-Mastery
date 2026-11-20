@@ -116,6 +116,7 @@ Solving leetcode problems
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1975-maximum-matrix-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2029-stone-game-ix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -447,6 +448,7 @@ Solving leetcode problems
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
+| [1975-maximum-matrix-sum](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1975-maximum-matrix-sum) |
 | [2029-stone-game-ix](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -939,6 +941,7 @@ Solving leetcode problems
 | [1937-maximum-number-of-points-with-cost](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1937-maximum-number-of-points-with-cost) |
 | [1958-check-if-move-is-legal](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1958-check-if-move-is-legal) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1975-maximum-matrix-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3286-find-a-safe-walk-through-a-grid) |
