@@ -179,6 +179,7 @@ Solving leetcode problems
 | [3886-sum-of-sortable-integers](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## String
 |  |
@@ -421,6 +422,7 @@ Solving leetcode problems
 | [3731-find-missing-elements](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3934-smallest-unique-subarray](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3934-smallest-unique-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -626,6 +628,7 @@ Solving leetcode problems
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3620-network-recovery-pathways) |
+| [3934-smallest-unique-subarray](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3934-smallest-unique-subarray) |
 ## Graph Theory
 |  |
 | ------- |
@@ -1070,16 +1073,19 @@ Solving leetcode problems
 | ------- |
 | [1923-longest-common-subpath](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1923-longest-common-subpath) |
 | [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
+| [3934-smallest-unique-subarray](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3934-smallest-unique-subarray) |
 ## Suffix Array
 |  |
 | ------- |
 | [1923-longest-common-subpath](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1923-longest-common-subpath) |
+| [3934-smallest-unique-subarray](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3934-smallest-unique-subarray) |
 ## Hash Function
 |  |
 | ------- |
 | [1923-longest-common-subpath](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1923-longest-common-subpath) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1948-delete-duplicate-folders-in-system) |
 | [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
+| [3934-smallest-unique-subarray](https://github.com/VishvaMane/LeetCode-Mastery/tree/master/3934-smallest-unique-subarray) |
 ## Minimax
 |  |
 | ------- |
